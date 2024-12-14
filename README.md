@@ -14,7 +14,7 @@ To model the data using different Excel tables and relationships for meaningful 
 To create interactive dashboards using Excel for visual representation of sales performance metrics.
 
 
-    **1.** _[Pizza Sales Performance Report](https://raw.githubusercontent.com/MSSHRUTHI-6/Pizza-Sales-Analysis/refs/heads/main/Pizza%20sales%20Dashboard.bmp)_ 
+ **1.** [Pizza Sales Performance Report](https://github.com/MSSHRUTHI-6/Pizza-Sales-Analysis/blob/main/Pizza%20sales%20Dashboard.jpg)_ 
    
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
