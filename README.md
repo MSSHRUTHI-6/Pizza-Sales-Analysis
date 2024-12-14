@@ -24,6 +24,7 @@ To create interactive dashboards using Excel for visual representation of sales 
 and Size of Pizza which is contributing more on sales.Indicates to work on best seller and worst seller pizza's.
 
 Here are the advisable business insights based on the Pizza Sales Dashboard
+
  **2.** [Pizza Sales Insights](https://github.com/MSSHRUTHI-6/Pizza-Sales-Analysis/blob/main/PizzaSales-Insights.pdf)_ 
 
 
