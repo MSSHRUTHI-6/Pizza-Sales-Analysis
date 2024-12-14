@@ -1,8 +1,6 @@
 # Pizza-Sales-Analysis
 Pizza Sales Analysis A comprehensive sales data analysis project focused on deriving actionable insights from sales data using Excel and MySQL. It included data transformation, cleaning, modeling, and dashboard creation in Excel, enabling informed decision-making and strategic planning.
-# Pizza_sales_data_analysis
-Pizza Sales is a comprehensive sales data analysis project aimed at deriving actionable insights from their sales data using Excel and MySQL.
-The project involved data transformation, cleaning, modeling, and dashboard creation using Excel to facilitate informed decision-making and strategic planning.
+
 ## Sales Report :
 
 
@@ -16,7 +14,7 @@ To model the data using different Excel tables and relationships for meaningful 
 To create interactive dashboards using Excel for visual representation of sales performance metrics.
 
 
-    **1.** Create a _[Pizza Sales Performance Report](https://raw.githubusercontent.com/MSSHRUTHI-6/Pizza-Sales-Analysis/refs/heads/main/Pizza%20sales%20Dashboard.bmp)_ 
+    **1.**_[Pizza Sales Performance Report](https://raw.githubusercontent.com/MSSHRUTHI-6/Pizza-Sales-Analysis/refs/heads/main/Pizza%20sales%20Dashboard.bmp)_ 
    
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
