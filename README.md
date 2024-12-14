@@ -23,6 +23,10 @@ To create interactive dashboards using Excel for visual representation of sales 
 - **Role of reports:** Determine effective customer discounts, Maximise the Sales Based on Trends observed on weekends patteren and Peak Times. Analyse the Category
 and Size of Pizza which is contributing more on sales.Indicates to work on best seller and worst seller pizza's.
 
+Here are the advisable business insights based on the Pizza Sales Dashboard
+ **2.** [Pizza Sales Insights](https://github.com/MSSHRUTHI-6/Pizza-Sales-Analysis/blob/main/PizzaSales-Insights.pdf)_ 
+
+
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load) using both MySQL and Excel.
